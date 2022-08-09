@@ -7,18 +7,21 @@
     
     header{
         height: 100px;
-        background-color: greenyellow;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     .logo{
-        height: 100px;
+        height: 80px;
     }
     main{
         height: 100px;
-        background-color: blue;
+        background-color: yellow;
     }
     
     footer{
         height: 100px;
         
-        background-color:yellow;
+        background-color: red;
     }
